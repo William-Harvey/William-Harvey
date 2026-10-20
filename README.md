@@ -3,7 +3,10 @@
 
 **SEO Leader · Technical SEO · Software Engineering · AI & Automation · Global Organic Growth**
 
-📍 United Kingdom | LinkedIn | GitHub Projects
+📍 United Kingdom
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-William_Harvey-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamharveyuk/)
+[![X](https://img.shields.io/badge/X-%40WilliamHarvey-000000?style=flat&logo=x&logoColor=white)](https://x.com/WilliamHarvey)
 
 ## About Me
 
@@ -51,6 +54,36 @@ Held group-level SEO and technical leadership responsibilities.
 Co-founded, developed and successfully exited digital businesses.
 
 This experience shapes how I approach technology: identify commercial opportunities, build practical solutions, automate where possible and measure results.
+
+## Chrome Extensions I've Built
+
+I enjoy developing practical tools that solve everyday problems for SEO professionals, developers and technical teams.
+
+### 🌐 Advanced Hreflang Module
+
+A Chrome extension for analysing and validating hreflang implementations across international websites.
+
+**Features include:**
+- Hreflang validation across HTML, HTTP headers and XML sitemaps
+- Reciprocal link and language-region validation
+- Canonical consistency and HTTP status checks
+- Sitemap analysis and Google Search Console validation checks
+- Detailed reporting and CSV exports
+
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-View_Extension-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/advanced-hreflang-module/ldamobcleobolcjjhoalhfkldalnedii)
+
+### 🔎 Regex Manager
+
+A Chrome extension for creating, organising and reusing regular expressions without repeatedly rebuilding complex patterns.
+
+**Features include:**
+- Save and organise named regex patterns
+- Quickly search and reuse saved expressions
+- Insert patterns directly into webpage input fields
+- Categorise and manage regex collections
+- Import and export patterns
+
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-View_Extension-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/regex-manager/mdcmehmegkigaonhnjhpcigplhjeohim)
 
 ## What I'm Building
 
