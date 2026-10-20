@@ -59,6 +59,20 @@ This experience shapes how I approach technology: identify commercial opportunit
 
 I enjoy developing practical tools that solve everyday problems for SEO professionals, developers and technical teams.
 
+## Google Search Product Expert — Gold Level
+
+I was invited by Google to become a **Gold-level Google Search Product Expert**, recognising my contributions to Google's SEO and Search support forums, where I helped website owners and SEO professionals understand and resolve search-related issues.
+
+Through the programme, I had opportunities to:
+
+- Receive specialist training directly from Google employees.
+- Attend two three-day events at Google's global headquarters in Mountain View, California.
+- Participate in in-depth technical discussions about Google Search.
+- Meet and exchange knowledge with other Gold-level Product Experts from around the world.
+- Attend a Google Product Experts event in London.
+
+This experience strengthened my understanding of how Google Search works and gave me the opportunity to learn directly from Google teams and some of the most experienced search professionals in the industry.
+
 ### 🌐 Advanced Hreflang Module
 
 A Chrome extension for analysing and validating hreflang implementations across international websites.
