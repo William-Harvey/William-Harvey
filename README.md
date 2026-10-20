@@ -49,11 +49,13 @@ Held group-level SEO and technical leadership responsibilities.
 - Core Web Vitals and technical optimisation
 - Automation, technical audits and reporting
 
+
 ### Entrepreneurship
 
 Co-founded, developed and successfully exited digital businesses.
 
 This experience shapes how I approach technology: identify commercial opportunities, build practical solutions, automate where possible and measure results.
+
 
 ## Google Search Product Expert — Gold Level
 
@@ -68,6 +70,7 @@ Through the programme, I had opportunities to:
 - Attend a Google Product Experts event in London.
 
 This experience strengthened my understanding of how Google Search works and gave me the opportunity to learn directly from Google teams and some of the most experienced search professionals in the industry.
+
 
 ## Chrome Extensions I've Built
 
@@ -98,6 +101,7 @@ A Chrome extension for creating, organising and reusing regular expressions with
 - Import and export patterns
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-View_Extension-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/regex-manager/mdcmehmegkigaonhnjhpcigplhjeohim)
+
 
 ## What I'm Building
 
