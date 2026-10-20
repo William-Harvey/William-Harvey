@@ -55,10 +55,6 @@ Co-founded, developed and successfully exited digital businesses.
 
 This experience shapes how I approach technology: identify commercial opportunities, build practical solutions, automate where possible and measure results.
 
-## Chrome Extensions I've Built
-
-I enjoy developing practical tools that solve everyday problems for SEO professionals, developers and technical teams.
-
 ## Google Search Product Expert — Gold Level
 
 I was invited by Google to become a **Gold-level Google Search Product Expert**, recognising my contributions to Google's SEO and Search support forums, where I helped website owners and SEO professionals understand and resolve search-related issues.
@@ -72,6 +68,10 @@ Through the programme, I had opportunities to:
 - Attend a Google Product Experts event in London.
 
 This experience strengthened my understanding of how Google Search works and gave me the opportunity to learn directly from Google teams and some of the most experienced search professionals in the industry.
+
+## Chrome Extensions I've Built
+
+I enjoy developing practical tools that solve everyday problems for SEO professionals, developers and technical teams.
 
 ### 🌐 Advanced Hreflang Module
 
